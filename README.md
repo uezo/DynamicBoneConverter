@@ -9,6 +9,7 @@ Convert DynamicBone to VRM SpringBone extremely easily.
 - Export / Import Db and Sb settings to / from JSON file
 - Provide helper GUI for bulk parameter application
 
+<img src="https://uezo.blob.core.windows.net/github/dynamicboneconverter/inspector.png" width="390">
 
 # Quick start 🚀
 
@@ -22,6 +23,8 @@ Convert DynamicBone to VRM SpringBone extremely easily.
 # Install 🎁
 
 Simply import `DynamicBoneConverter.unitypackage` and attach `DynamicBoneConverter.cs` to your model you want to manage bones.
+
+<img src="https://uezo.blob.core.windows.net/github/dynamicboneconverter/attach.png" width="500">
 
 
 ## Dependencies
