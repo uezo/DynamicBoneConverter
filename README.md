@@ -2,6 +2,7 @@
 
 Convert DynamicBone to VRM SpringBone extremely easily.
 
+[日本語のREADMEはこちら](https://github.com/uezo/DynamicBoneConverter/blob/master/README.ja.md)
 
 # Features ✨
 
