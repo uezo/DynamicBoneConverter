@@ -6,7 +6,7 @@ Convert DynamicBone to VRM SpringBone extremely easily.
 # Features ✨
 
 - Convert DynamicBone to VRM SpringBone
-- Export / Import Db and Sb settings to / from JSON file
+- Export / Import DynamicBone and SpringBone settings to / from JSON file
 - Provide helper GUI for bulk parameter application
 
 <img src="https://uezo.blob.core.windows.net/github/dynamicboneconverter/inspector.png" width="390">
@@ -31,7 +31,7 @@ Simply import `DynamicBoneConverter.unitypackage` and attach `DynamicBoneConvert
 
 - [DynamicBone](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743) (tested on 1.2.1)
 - [VRM SpringBone](https://github.com/vrm-c/UniVRM/releases) (tested on 0.55)
-- [Json.Net](https://assetstore.unity.com/packages/tools/input-management/json-net-for-unity-11347?locale=ja-JP) (tested on 2.0.1)
+- [JSON.NET](https://assetstore.unity.com/packages/tools/input-management/json-net-for-unity-11347?locale=ja-JP) (tested on 2.0.1)
 
 You can use this extension just as an backup tool for DynamicBone / VRM SpringBone without importing VRM SpringBone / DynamicBone.
 
